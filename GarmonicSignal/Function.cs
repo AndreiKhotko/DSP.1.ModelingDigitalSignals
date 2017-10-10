@@ -36,7 +36,7 @@ namespace GarmonicSignal
 
             for (int n = 0; n < N; n++)
             {
-                double x = Amplitude * Math.Sin((2 * Math.PI * Frequency * n) / N + Phase);
+                double x = GetValue(n);
 
                 list.Add(x);
             }
