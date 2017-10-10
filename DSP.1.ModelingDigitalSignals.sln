@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarmonicSignal", "GarmonicSignal\GarmonicSignal.csproj", "{AF1C47C6-5BC4-456C-B0F6-EF9BDB0F58B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarmonicSignal.UI.WinFroms", "GarmonicSignal.UI.WinFroms\GarmonicSignal.UI.WinFroms.csproj", "{B7884F66-85B4-4C35-8FAA-ED712D7C9538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF1C47C6-5BC4-456C-B0F6-EF9BDB0F58B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF1C47C6-5BC4-456C-B0F6-EF9BDB0F58B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF1C47C6-5BC4-456C-B0F6-EF9BDB0F58B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF1C47C6-5BC4-456C-B0F6-EF9BDB0F58B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7884F66-85B4-4C35-8FAA-ED712D7C9538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7884F66-85B4-4C35-8FAA-ED712D7C9538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7884F66-85B4-4C35-8FAA-ED712D7C9538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7884F66-85B4-4C35-8FAA-ED712D7C9538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
